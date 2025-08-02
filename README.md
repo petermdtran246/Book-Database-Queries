@@ -1,6 +1,6 @@
 📚 SQL Practice Exercises — Book Database Queries
-Welcome to my SQL practice repository!
-This project helps develop core SQL skills by working through real examples using a books database. Each exercise focuses on key SQL concepts and shows practical query writing.
+Welcome to my SQL practice repository!<br>
+This project helps develop core SQL skills by working through real examples using a books database. Each exercise focuses on key SQL concepts and shows practical query writing.<br>
 
 
 1️⃣ Exercise 1: Evaluate Basic Logical Expressions
